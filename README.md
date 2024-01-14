@@ -1,7 +1,7 @@
 Data_Science_Project_Portfolio
 ==============================
 
-This repo contains a catalogue of all my projects during my internship at
+This Folder and it sub-folders contains a catalogue of all my projects during my internship at AzubiAfrica
 
 Project Organization
 ------------
